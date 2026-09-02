@@ -4,3 +4,4 @@
 <img width="433" height="95" alt="Screenshot 2026-09-02 112630" src="https://github.com/user-attachments/assets/1ff688e2-fb8e-4eaf-ad85-f111c41f5ada" />
 <img width="587" height="135" alt="Screenshot 2026-09-02 112636" src="https://github.com/user-attachments/assets/72fcd43f-7e80-4cd1-8786-f0d15221df21" />
 <img width="666" height="185" alt="Screenshot 2026-09-02 112559" src="https://github.com/user-attachments/assets/b01adc5b-fa6e-47f5-9f99-321279553bd3" />
+<img width="917" height="362" alt="Screenshot 2026-09-02 113049" src="https://github.com/user-attachments/assets/1d6b4f35-b8a0-4a6e-881c-37456b7e805e" />
